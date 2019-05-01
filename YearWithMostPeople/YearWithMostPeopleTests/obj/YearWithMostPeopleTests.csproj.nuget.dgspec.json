@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeopleTests\\YearWithMostPeopleTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeopleTests\\YearWithMostPeopleTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeopleTests\\YearWithMostPeopleTests.csproj",
+        "projectName": "YearWithMostPeopleTests",
+        "projectPath": "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeopleTests\\YearWithMostPeopleTests.csproj",
+        "packagesPath": "C:\\Users\\Trey Hookham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeopleTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trey Hookham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeople\\YearWithMostPeople.csproj": {
+                "projectPath": "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeople\\YearWithMostPeople.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeople\\YearWithMostPeople.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeople\\YearWithMostPeople.csproj",
+        "projectName": "YearWithMostPeople",
+        "projectPath": "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeople\\YearWithMostPeople.csproj",
+        "packagesPath": "C:\\Users\\Trey Hookham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trey Hookham\\source\\repos\\YearWithMostPeople\\YearWithMostPeople\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trey Hookham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

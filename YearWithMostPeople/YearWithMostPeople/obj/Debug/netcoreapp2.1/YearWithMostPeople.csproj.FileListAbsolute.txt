@@ -1,0 +1,11 @@
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\bin\Debug\netcoreapp2.1\YearWithMostPeople.deps.json
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\bin\Debug\netcoreapp2.1\YearWithMostPeople.runtimeconfig.json
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\bin\Debug\netcoreapp2.1\YearWithMostPeople.runtimeconfig.dev.json
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\bin\Debug\netcoreapp2.1\YearWithMostPeople.dll
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\bin\Debug\netcoreapp2.1\YearWithMostPeople.pdb
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\obj\Debug\netcoreapp2.1\YearWithMostPeople.csprojAssemblyReference.cache
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\obj\Debug\netcoreapp2.1\YearWithMostPeople.csproj.CoreCompileInputs.cache
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\obj\Debug\netcoreapp2.1\YearWithMostPeople.AssemblyInfoInputs.cache
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\obj\Debug\netcoreapp2.1\YearWithMostPeople.AssemblyInfo.cs
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\obj\Debug\netcoreapp2.1\YearWithMostPeople.dll
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeople\obj\Debug\netcoreapp2.1\YearWithMostPeople.pdb

@@ -1,0 +1,17 @@
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\obj\Debug\netcoreapp2.1\YearWithMostPeopleTests.csprojAssemblyReference.cache
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\obj\Debug\netcoreapp2.1\YearWithMostPeopleTests.csproj.CoreCompileInputs.cache
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\obj\Debug\netcoreapp2.1\YearWithMostPeopleTests.AssemblyInfoInputs.cache
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\obj\Debug\netcoreapp2.1\YearWithMostPeopleTests.AssemblyInfo.cs
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\YearWithMostPeopleTests.deps.json
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\YearWithMostPeopleTests.runtimeconfig.json
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\YearWithMostPeopleTests.runtimeconfig.dev.json
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\YearWithMostPeopleTests.dll
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\YearWithMostPeopleTests.pdb
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\YearWithMostPeople.dll
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\bin\Debug\netcoreapp2.1\YearWithMostPeople.pdb
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\obj\Debug\netcoreapp2.1\YearWithMostPeopleTests.csproj.CopyComplete
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\obj\Debug\netcoreapp2.1\YearWithMostPeopleTests.dll
+C:\Users\Trey Hookham\source\repos\YearWithMostPeople\YearWithMostPeopleTests\obj\Debug\netcoreapp2.1\YearWithMostPeopleTests.pdb
